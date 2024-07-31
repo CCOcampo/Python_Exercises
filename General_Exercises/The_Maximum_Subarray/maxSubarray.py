@@ -26,5 +26,5 @@ def maxSubarray(arr):
 #Example
 
 arr = [-1,-2,-3,-5,-8,1,4,2,5,7,5,1,-1,3]
-print(maxSubarray(arr))
+print(maxSubarray(arr))  
 
